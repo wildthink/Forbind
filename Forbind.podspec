@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'Forbind'
-  spec.version      = '1.1'
+  spec.version      = '1.3.2'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/ulrikdamm/Forbind'
   spec.authors      = { 'Ulrik Damm' => 'ulrikdamm@me.com' }
